@@ -1,2 +1,2 @@
 Leetcode random questions solved:
-20 Questions per topic
+20 Questions per Topic

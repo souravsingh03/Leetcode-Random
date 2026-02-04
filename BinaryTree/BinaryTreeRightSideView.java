@@ -26,19 +26,19 @@ class Solution {
      * @param root root of the binary tree
      * @return list of values visible from the right side
      */
-    public List<Integer> rightSideView(TreeNode root) {
+    public List<Integer> rightSideView(LCA root) {
         List<Integer> result = new ArrayList<>();
         if (root == null) {
             return result;
         }
 
-        Queue<TreeNode> queue = new LinkedList<>();
+        Queue<LCA> queue = new LinkedList<>();
         queue.offer(root);
 
         // Perform level-order traversal
         while (!queue.isEmpty()) {
             int levelSize = queue.size();
-            TreeNode current = null;
+            LCA current = null;
 
             // Traverse all nodes at current level
             for (int i = 0; i < levelSize; i++) {

@@ -2,12 +2,12 @@ package BinaryTree;
 /**
  * Definition for a binary tree node.
  */
-public class TreeNode {
+public class LCA {
     int val;
     TreeNode left;
     TreeNode right;
 
-    TreeNode(int x) {
+    LCA(int x) {
         this.val = x;
     }
 }

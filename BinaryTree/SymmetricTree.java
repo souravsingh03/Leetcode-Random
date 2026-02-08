@@ -26,7 +26,7 @@ class TreeNode {
  * A tree is symmetric if the left subtree is a mirror
  * reflection of the right subtree.
  */
-public class Solution {
+public class SymmetricTree {
 
     /**
      * Entry point to check tree symmetry.

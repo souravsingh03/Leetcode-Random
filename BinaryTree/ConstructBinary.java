@@ -1,7 +1,7 @@
 /**
  * Definition for a binary tree node.
  */
-package BinaryTree;
+
 class TreeNode {
     int val;
     TreeNode left;

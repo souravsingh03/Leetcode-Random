@@ -1,4 +1,4 @@
-package BinaryTree;
+
 /**
  * Binary Tree Pruning
  * 

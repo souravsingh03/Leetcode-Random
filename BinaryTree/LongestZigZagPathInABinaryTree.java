@@ -1,4 +1,4 @@
-package BinaryTree;
+
 /**
  * LeetCode: Longest ZigZag Path in a Binary Tree
  *

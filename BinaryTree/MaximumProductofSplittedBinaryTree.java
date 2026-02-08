@@ -1,4 +1,4 @@
-package BinaryTree;
+
 /**
  * LeetCode 1339 - Maximum Product of Splitted Binary Tree
  *

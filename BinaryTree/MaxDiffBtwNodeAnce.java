@@ -1,4 +1,4 @@
-package BinaryTree;
+
 /**
  * LeetCode: Maximum Difference Between Node and Ancestor
  *
